@@ -1,0 +1,26 @@
+C:\Users\Administrator\AppData\Local\Programs\kbide\boards\LotusNanoBot\build\ff-ff-ff-ff-ff\user_app.cpp.o: \
+ C:\Users\Administrator\AppData\Local\Programs\kbide\boards\LotusNanoBot\build\ff-ff-ff-ff-ff\user_app.cpp \
+ C:\Users\Administrator\AppData\Local\Programs\kbide\boards\LotusNanoBot\include/LotusNanoBot.h \
+ C:\Users\Administrator\AppData\Local\Programs\kbide\platforms\arduino-avr\sdk\cores\arduino/Arduino.h \
+ C:\Users\Administrator\AppData\Local\Programs\kbide\platforms\arduino-avr\sdk\cores\arduino/binary.h \
+ C:\Users\Administrator\AppData\Local\Programs\kbide\platforms\arduino-avr\sdk\cores\arduino/WCharacter.h \
+ C:\Users\Administrator\AppData\Local\Programs\kbide\platforms\arduino-avr\sdk\cores\arduino/WString.h \
+ C:\Users\Administrator\AppData\Local\Programs\kbide\platforms\arduino-avr\sdk\cores\arduino/HardwareSerial.h \
+ C:\Users\Administrator\AppData\Local\Programs\kbide\platforms\arduino-avr\sdk\cores\arduino/Stream.h \
+ C:\Users\Administrator\AppData\Local\Programs\kbide\platforms\arduino-avr\sdk\cores\arduino/Print.h \
+ C:\Users\Administrator\AppData\Local\Programs\kbide\platforms\arduino-avr\sdk\cores\arduino/Printable.h \
+ C:\Users\Administrator\AppData\Local\Programs\kbide\platforms\arduino-avr\sdk\cores\arduino/USBAPI.h \
+ C:\Users\Administrator\AppData\Local\Programs\kbide\platforms\arduino-avr\sdk\cores\arduino/Arduino.h \
+ C:\Users\Administrator\AppData\Local\Programs\kbide\boards\LotusNanoBot\include/pins_arduino.h \
+ C:\Users\Administrator\AppData\Local\Programs\kbide\platforms\arduino-avr\include/Wire.h \
+ C:\Users\Administrator\AppData\Local\Programs\kbide\platforms\arduino-avr\sdk\cores\arduino/Stream.h \
+ C:\Users\Administrator\AppData\Local\Programs\kbide\platforms\arduino-avr\include/SPI.h \
+ C:\Users\Administrator\AppData\Local\Programs\kbide\boards\LotusNanoBot\include/Servo.h \
+ C:\Users\Administrator\AppData\Local\Programs\kbide\boards\LotusNanoBot\include/ServoTimers.h \
+ C:\Users\Administrator\AppData\Local\Programs\kbide\boards\LotusNanoBot\include/Adafruit_GFX.h \
+ C:\Users\Administrator\AppData\Local\Programs\kbide\platforms\arduino-avr\sdk\cores\arduino/Print.h \
+ C:\Users\Administrator\AppData\Local\Programs\kbide\boards\LotusNanoBot\include/gfxfont.h \
+ C:\Users\Administrator\AppData\Local\Programs\kbide\boards\LotusNanoBot\include/Adafruit_SSD1306.h \
+ C:\Users\Administrator\AppData\Local\Programs\kbide\boards\LotusNanoBot\include/Adafruit_GFX.h \
+ C:\Users\Administrator\AppData\Local\Programs\kbide\boards\LotusNanoBot\include/nano_motor.h \
+ C:\Users\Administrator\AppData\Local\Programs\kbide\boards\LotusNanoBot\include/nano_servo.h
