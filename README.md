@@ -1,10 +1,10 @@
 # LotusNanoBOT
-NanoBOT for KB-IDE
-- motor all
-- servo
-- beep
-- oled
-- analog input
-- Digital input
--------------
-- icon config
+LotusNanoBot for KB-IDE
+feature control basics
+  - DC motor 
+  - Servo motor
+  - Buzzer beep
+  - Oled display
+  - analog input
+  - Digital input
+
