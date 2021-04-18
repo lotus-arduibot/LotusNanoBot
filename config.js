@@ -6,7 +6,7 @@ module.exports = {
     author : 'Lotus-arduibot',
     website : 'http://www.lotus-arduibot.com/',
     email : 'lotusarduibot@gmail.com',
-    git : 'https://github.com/lotus-arduibot/KB-IDE_Lotus_NanoBot.git',    
+    git : 'https://github.com/lotus-arduibot/LotusNanoBot.git',    
     image : '/static/display.jpg',
     version : '1.0.0',
 };
