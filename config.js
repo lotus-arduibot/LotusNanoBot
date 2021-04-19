@@ -8,5 +8,5 @@ module.exports = {
     email : 'lotusarduibot@gmail.com',
     git : 'https://github.com/lotus-arduibot/LotusNanoBot/',    
     image : '/static/display.jpg',
-    version : '1.0.0',
+    version : '1.0.1',
 };
